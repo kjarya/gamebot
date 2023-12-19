@@ -21,9 +21,9 @@ A simple machine learning game bot python project to learn how to play a space g
     git clone https://github.com/your-username/your-project.git
     ```
 
-2. Install the required dependencies:
+2. Install the required dependencies using pip
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+
+3. Run the project! 
+
 
