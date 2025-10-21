@@ -18,7 +18,7 @@ A simple machine learning game bot python project to learn how to play a space g
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/kjarya/gamebot.git
     ```
 
 2. Install the required dependencies using pip
