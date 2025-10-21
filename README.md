@@ -2,7 +2,7 @@
 
 ![Space Ship](https://github.com/kjarya/gamebot/blob/main/ship2.png)
 
-A simple machine learning game bot python project to learn how to play a space game. Objective is to avoid the asteroid and the thorns at the side. The game is heavily taken from Sentdex's introduction to pygame videos. 
+A simple machine learning game bot python project to learn how to play a space game. Objective is to avoid the asteroid and the thorns at the side. The game is heavily taken from Sentdex's [introduction to pygame videos](https://pythonprogramming.net/pygame-python-3-part-1-intro/). 
 
 ## Dependencies
 
